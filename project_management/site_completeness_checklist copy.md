@@ -13,6 +13,8 @@ This list uses [Github Checklists](https://github.com/blog/1375-task-lists-in-gf
 * [ ] pagination
 * [ ] headline styles that work when very long (wrap to multiple lines)
 * [ ] Purchase CMS license (if applicable)
+* [ ] Plan to SSL all the things, including http -> https in redirect
+* [ ] Plan how deployments will happen
 
 
 ### Design
